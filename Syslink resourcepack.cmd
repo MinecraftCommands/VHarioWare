@@ -1,0 +1,1 @@
+mklink /D "%appdata%\.minecraft\resourcepacks\VHarioWare Resourcepack" "D:\Project\vharioware\Resourcepack"

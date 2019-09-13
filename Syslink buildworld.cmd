@@ -1,0 +1,1 @@
+mklink /D "%appdata%\.minecraft\saves\vharioware" "D:\Project\vharioware\World"
